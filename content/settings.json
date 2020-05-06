@@ -6,17 +6,17 @@
     "bootswatch": "_"
   },
   "bg_color": "#fff",
-  "logo": "/img/uploads/logo.png",
+  "logo": "/img/uploads/logo-ql.png",
   "name": "Quality luna",
   "short_name": "qualityluna",
   "lang": "pt_br",
   "currency": "BRL",
-  "mini_logo": "",
-  "favicon": "/img/uploads/favicon.png",
+  "mini_logo": "/img/uploads/logo-ql.png",
+  "favicon": "/img/uploads/logo3.png",
   "country_code": "BR",
   "secondary_color": "#1e1e1e",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/logo3.png",
   "store_id": 1074,
   "description": "Descubra o que os Produtos QualityLuna podem fazer por seus cabelos! #qualityluna",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/logo3.png"
 }
