@@ -7,23 +7,17 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
+          "img": "/img/uploads/banner_site-1.png",
+          "link": "https://qualitylun.netlify.app/kit-reparador-de-pontas-crystal-shine-30ml-2-unidades",
+          "alt": "Reparador",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2020-12-31T03:00:00.000Z"
-        },
-        {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "start": "",
-          "end": ""
         }
       ]
     },
     {
       "type": "info-bar",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "collection-shelf",
