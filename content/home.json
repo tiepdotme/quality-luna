@@ -28,6 +28,15 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5eb452325ac4060578b88980"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/clube_de_desconto-1.png",
+          "link": "https://chat.whatsapp.com/D24RvRwKjKf3808MaLjfZx"
+        }
+      ]
     }
   ]
 }
