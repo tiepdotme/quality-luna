@@ -1,1 +1,20 @@
 // Add your custom CSS here.
+// desktop acima de 14 polegadas
+@media  screen and (min-width: 1368px) {
+}
+
+//desktop normal size
+@media  screen and (min-width: 998px) and (max-width: 1367px) {
+  .banner-slider {
+    max-width: 100%
+  }
+
+}
+// apenas tablet
+@media screen and (min-width: 481px) and (max-width: 997px) {
+
+}
+// apenas mobile
+@media screen and (max-width: 480px) {
+
+}
