@@ -23,6 +23,11 @@
       "shuffle": true,
       "collection_id": "5eb2c7f65ac4060578b800db",
       "title": "Finalizadores Quality Luna"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "5eb452325ac4060578b88980"
     }
   ]
 }
