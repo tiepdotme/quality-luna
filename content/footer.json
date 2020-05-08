@@ -23,7 +23,12 @@
   "stamps": [
     {
       "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection"
+      "alt": "SSL"
+    },
+    {
+      "src": "/img/uploads/norton.png",
+      "link": "https://safeweb.norton.com/report/show?url=www.qualityluna.com.br",
+      "alt": "Norton"
     }
   ],
   "payment_methods": {
