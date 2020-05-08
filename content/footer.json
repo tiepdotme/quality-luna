@@ -43,16 +43,17 @@
     "aura": false,
     "banrisul": false,
     "elo": true,
-    "hipercard": false,
+    "hipercard": true,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
     "mastercard": true,
     "citibank": false,
     "hiper": true,
     "diners": true,
     "mais": false,
-    "itau": true
+    "amex": true,
+    "itau": false
   },
   "credits": ""
 }
