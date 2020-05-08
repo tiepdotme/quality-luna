@@ -53,6 +53,9 @@
 .product-card__buy.fade {
   opacity: 1 !important;
 }
+  .search-engine__results .product-card__buy.fade {
+  opacity: 0 !important;
+  }
 }
 // hover menu
 .menu__item:hover {
