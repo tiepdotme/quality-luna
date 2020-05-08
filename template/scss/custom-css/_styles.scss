@@ -66,3 +66,8 @@ color: #fff !important;
 .product__buy button {
     padding: .5rem 4rem;
 }
+
+// hide trustvox star
+.products-carousel .ts-shelf-container {
+  display: none;
+}
