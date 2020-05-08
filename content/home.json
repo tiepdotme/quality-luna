@@ -3,6 +3,10 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "custom-html",
+      "html": "<p>Se você realizou o pedido antes do dia 09/05/20, <a href=\"https://www.qualityluna.e-com.club/conta\"> clique aqui </a> para acessar o seu pedido</p>"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
@@ -21,13 +25,13 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "5eb2c7f65ac4060578b800db",
-      "title": "Finalizadores Quality Luna"
+      "collection_id": "5eb5ad365ac4060578b9048c"
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "5eb5ad365ac4060578b9048c"
+      "collection_id": "5eb2c7f65ac4060578b800db",
+      "title": "Finalizadores Quality Luna"
     },
     {
       "type": "collection-shelf",
