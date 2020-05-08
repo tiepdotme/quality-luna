@@ -32,7 +32,15 @@
     left: 0;
     font-size: 1.1rem;
     color: #ffffff;
-}
+  }
+  
+  .footer__stamps li:nth-child(3) > img {
+    width: 70%;
+  }
+  
+  .footer__stamps img {
+    max-width: 120px;
+  }
 
 }
 // apenas tablet
