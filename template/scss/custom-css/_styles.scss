@@ -2,46 +2,11 @@
 // desktop acima de 14 polegadas
 @media  screen and (min-width: 1368px) {
 }
-
 //desktop normal size
 @media  screen and (min-width: 998px) and (max-width: 1367px) {
   .banner-slider {
     max-width: 100%
   }
-  
-  //botão cancelar
-  .btn-danger {
-    display: none !important;
-  }
-  
-  .body {
-    font-family: 'Open Sans', sans-serif;
-  }
-  
-  .product__buy button {
-    padding: .5rem 4rem;
-  }
-  
-  .products-carousel .ts-shelf-container {
-    display: none;
-   }
-  
-  .menu__btn {
-    position: absolute;
-    top: 0;
-    left: 0;
-    font-size: 1.1rem;
-    color: #ffffff;
-  }
-  
-  .footer__stamps li:nth-child(3) > img {
-    width: 70%;
-  }
-  
-  .footer__stamps img {
-    max-width: 120px;
-  }
-
 }
 // apenas tablet
 @media screen and (min-width: 481px) and (max-width: 997px) {
@@ -83,3 +48,38 @@ color: #fff !important;
   font-size: 13px;
   color: #333;
 }
+
+  //botão cancelar
+  .order-info__summary .btn-danger {
+    display: none !important;
+  }
+  
+  .body {
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .product__buy button {
+    padding: .5rem 4rem;
+  }
+  
+  .products-carousel .ts-shelf-container {
+    display: none;
+   }
+  
+  .menu__btn {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 1.1rem;
+    color: #ffffff;
+  }
+  
+  .footer__stamps li:nth-child(3) > img {
+    width: 70%;
+  }
+  
+  .footer__stamps img {
+    max-width: 120px;
+  }
+
+
