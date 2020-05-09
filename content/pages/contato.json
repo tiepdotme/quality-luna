@@ -5,6 +5,17 @@
   "body": "Telefone: (77) 3424-6689\n\nE-mail: sac@qualityluna.com.br\n\nEndereço: Rua Treze de Maio, 17 - Centro - Vitória da Conquista/BA",
   "sections": [
     {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
       "type": "custom-html",
       "html": "<hr> \nSe você realizou o pedido antes do dia 09/05/20, <a target=\"blank\" href=\"http://www.qualityluna.e-com.club/conta\"> clique aqui </a> para acessar o seu pedido. "
     },
