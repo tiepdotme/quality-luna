@@ -6,7 +6,7 @@
   "sections": [
     {
       "type": "custom-html",
-      "html": "<hr> \nSe você realizou o pedido antes do dia 09/05/20, <a href=\"http://www.qualityluna.e-com.club/conta\"> clique aqui </a> para acessar o seu pedido."
+      "html": "<hr> \nSe você realizou o pedido antes do dia 09/05/20, <a target=\"blank\" href=\"http://www.qualityluna.e-com.club/conta\"> clique aqui </a> para acessar o seu pedido. "
     },
     {
       "type": "collection-shelf",
