@@ -4,7 +4,12 @@
     "link": ""
   },
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {
+        "title": "Contatos",
+        "link": "/pages/contato"
+      }
+    ],
     "phone_wpp": true,
     "socials": true
   },
