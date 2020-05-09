@@ -2,12 +2,8 @@
   "title": "Contato",
   "meta_title": "Contato",
   "meta_description": "Contato",
-  "body": "Fale conosco também através do Whastapp (77) 3424-6689",
+  "body": "**Telefone:** (77) 34246689 \n\n**E-mail:** sac@qualityluna.com.br \n\n**Endereço:** Rua Treze de Maio, 17 - Centro - Vitória da Conquista/BA",
   "sections": [
-    {
-      "type": "custom-content",
-      "markdown": "**Telefone:** (77) 34246689 \n\n**E-mail:** sac@qualityluna.com.br \n\n**Endereço:** Rua Treze de Maio, 17 - Centro - Vitória da Conquista/BA"
-    },
     {
       "type": "custom-html",
       "html": "<hr> \nSe você realizou o pedido antes do dia 09/05/20, <a href=\"http://www.qualityluna.e-com.club/conta\"> clique aqui </a> para acessar o seu pedido."
