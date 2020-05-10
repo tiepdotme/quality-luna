@@ -1,4 +1,36 @@
 // Add your custom CSS here.
+  
+//botão cancelar
+  .order-info__toggle.btn.btn-danger.btn-sm {
+    display: none !important; }
+
+// FRETE CALCULO
+.shipping-calculator__services::before {
+  content: 'FRETE GRÁTIS ACIMA DE R$200 \A *Apenas Nordeste';
+  white-space: pre; /* or pre-wrap */
+  font-weight: bold;
+  font-size: 13px;
+  color: #339933;
+}
+
+//cor botao comprar
+.btn-primary, .btn-primary.focus, .btn-primary:focus, .btn-primary:hover {
+    color: #fff;
+    background-color: #393;
+    border-color: #393;
+}
+
+// aumentar botao comprar
+.product__buy button {
+    padding: .5rem 4rem;
+}
+
+// hide trustvox star
+.products-carousel .ts-shelf-container {
+  display: none;
+}
+
+
 // desktop acima de 14 polegadas
 @media  screen and (min-width: 1368px) {
 }
@@ -22,6 +54,7 @@
   opacity: 0 !important;
   }
 }
+
 // hover menu
 .menu__item:hover {
 color: #fff !important;
@@ -30,30 +63,6 @@ color: #fff !important;
     padding-right: 1rem;
 }
 
-// aumentar botao comprar
-.product__buy button {
-    padding: .5rem 4rem;
-}
-
-// hide trustvox star
-.products-carousel .ts-shelf-container {
-  display: none;
-}
-
-// FRETE CALCULO
-.shipping-calculator__services::before {
-  content: 'FRETE GRÁTIS ACIMA DE R$200 \A *Apenas Nordeste';
-  white-space: pre; /* or pre-wrap */
-  font-weight: bold;
-  font-size: 13px;
-  color: #339933;
-}
-
-  //botão cancelar
-  .order-info__toggle.btn.btn-danger.btn-sm {
-    display: none !important;
-  }
-  
   .body {
     font-family: 'Open Sans', sans-serif;
   }
@@ -81,11 +90,3 @@ color: #fff !important;
   .footer__stamps img {
     max-width: 120px;
   }
-
-
-//cor botao comprar
-.btn-primary, .btn-primary.focus, .btn-primary:focus, .btn-primary:hover {
-    color: #fff;
-    background-color: #393;
-    border-color: #393;
-}
