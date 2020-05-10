@@ -27,7 +27,12 @@
 
 // hide trustvox star
 .products-carousel .ts-shelf-container {
-  display: none;
+  display: none !important;
+}
+
+//remover status pedido aberto
+.order-info__status--open {
+  display: none !important;
 }
 
 
