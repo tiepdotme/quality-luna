@@ -5,7 +5,7 @@
     display: none !important; }
 
 // FRETE CALCULO
-.shipping-calculator__services::before {
+.shipping-calculator__services::after {
   content: 'FRETE GRÁTIS ACIMA DE R$200 \A *Apenas Nordeste';
   white-space: pre; /* or pre-wrap */
   font-weight: 600;
