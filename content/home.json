@@ -24,13 +24,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/quality-show-catalogo-profissional-3.webp"
+          "img": "/img/uploads/quality-show-catalogo-profissional-3.webp",
+          "link": "https://qualitylun.netlify.app/quality-cauter-cauterizacao-capilar-para-profissionais",
+          "alt": "Luna Cauter"
         },
         {
-          "img": "/img/uploads/quality-show-catalogo-profissional-4.webp"
+          "img": "/img/uploads/quality-show-catalogo-profissional-4.webp",
+          "link": "https://qualitylun.netlify.app/linha-plus-quality-cosmeticos",
+          "alt": "Plus"
         },
         {
-          "img": "/img/uploads/quality-show-catalogo-profissional-2.webp"
+          "img": "/img/uploads/quality-show-catalogo-profissional-2.webp",
+          "link": "https://qualitylun.netlify.app/quality-cosmeticos-doble-hair",
+          "alt": "Progressiva"
         }
       ]
     },
