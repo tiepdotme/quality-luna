@@ -27,12 +27,12 @@
     },
     {
       "src": "/img/uploads/norton.png",
-      "link": "https://safeweb.norton.com/report/show?url=www.qualityluna.com.br",
+      "link": "",
       "alt": "Norton"
     },
     {
       "src": "/img/uploads/google.png",
-      "link": "http://www.google.com/safebrowsing/diagnostic?site=www.qualityluna.com.br",
+      "link": "",
       "alt": "Google Safe"
     }
   ],
