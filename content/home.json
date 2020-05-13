@@ -24,19 +24,6 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/clube_de_desconto-1.webp",
-          "link": "https://chat.whatsapp.com/D24RvRwKjKf3808MaLjfZx"
-        }
-      ]
-    },
-    {
-      "type": "custom-html",
-      "html": "<a href=\"https://chat.whatsapp.com/D24RvRwKjKf3808MaLjfZx\" target=\"_blank\">\n<p style=\"text-align: center; \"><br></p>\n<p style=\"text-align: center; font-size:25px\"><span style=\"font-weight: bold;\">Faça parte do Grupo VIP</span><br>Ganhe Descontos e Fique por dentro das Novidades!</p>\n<p style=\"text-align: center; \"><a class=\"btn btn-success btn-lg btn-block\" width=\"100px\" href=\"https://chat.whatsapp.com/D24RvRwKjKf3808MaLjfZx\" target=\"_blank\">Clique aqui para Entrar no Grupo</a></p>\n<p style=\"text-align: center;\"><br></p>"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
           "img": "/img/uploads/quality-show-catalogo-profissional-3.webp"
         },
         {
@@ -46,6 +33,19 @@
           "img": "/img/uploads/quality-show-catalogo-profissional-2.webp"
         }
       ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/clube_de_desconto-1.webp",
+          "link": "https://chat.whatsapp.com/D24RvRwKjKf3808MaLjfZx"
+        }
+      ]
+    },
+    {
+      "type": "custom-html",
+      "html": "<a href=\"https://chat.whatsapp.com/D24RvRwKjKf3808MaLjfZx\" target=\"_blank\">\n<p style=\"text-align: center; \"><br></p>\n<p style=\"text-align: center; font-size:25px\"><span style=\"font-weight: bold;\">Faça parte do Grupo VIP</span><br>Ganhe Descontos e Fique por dentro das Novidades!</p>\n<p style=\"text-align: center; \"><a class=\"btn btn-success btn-lg btn-block\" width=\"100px\" href=\"https://chat.whatsapp.com/D24RvRwKjKf3808MaLjfZx\" target=\"_blank\">Clique aqui para Entrar no Grupo</a></p>\n<p style=\"text-align: center;\"><br></p>"
     }
   ]
 }
