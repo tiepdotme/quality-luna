@@ -23,11 +23,13 @@
         },
         {
           "img": "/img/uploads/reparador_de_pontas.webp",
-          "link": "https://qualitylun.netlify.app/search?term=reparador"
+          "link": "https://qualitylun.netlify.app/search?term=reparador",
+          "alt": "Reparador"
         },
         {
           "img": "/img/uploads/cronograma.webp",
-          "link": "https://qualitylun.netlify.app/search?term=cronograma"
+          "link": "https://qualitylun.netlify.app/search?term=cronograma",
+          "alt": "Cronograma"
         }
       ]
     },
