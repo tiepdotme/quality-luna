@@ -3,10 +3,6 @@
   "meta_description": "Compre aqui Produtos Luna System e Quality Cosméticos. Enviamos para todo Brasil. Entrega em casa.",
   "sections": [
     {
-      "type": "custom-content",
-      "markdown": "**[Clique aqui](https://qualityluna.e-com.club/)** para acessar os pedidos realizados **antes** do dia **09/05/2020**!"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
