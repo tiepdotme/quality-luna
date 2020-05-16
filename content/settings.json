@@ -1,4 +1,5 @@
 {
+  "store_id": 1074,
   "domain": "www.qualityluna.com.br",
   "currency_symbol": "R$",
   "primary_color": "#000000",
@@ -16,7 +17,6 @@
   "country_code": "BR",
   "secondary_color": "#1e1e1e",
   "icon": "/img/uploads/logo3.png",
-  "store_id": 1074,
   "description": "Descubra o que os Produtos QualityLuna podem fazer por seus cabelos! #qualityluna",
   "large_icon": "/img/uploads/logo3.png"
 }
