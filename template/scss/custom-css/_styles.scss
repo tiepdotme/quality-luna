@@ -1,5 +1,5 @@
 // Add your custom CSS here.
-  
+
 //botão cancelar
   .order-info__toggle.btn.btn-danger.btn-sm {
     display: none !important; }
@@ -69,15 +69,15 @@ color: #fff !important;
   .body {
     font-family: 'Open Sans', sans-serif !important;
   }
-  
+
   .product__buy button {
     padding: .5rem 4rem;
   }
-  
+
   .products-carousel .ts-shelf-container {
     display: none;
    }
-  
+
   .menu__btn {
     position: absolute;
     top: 0;
@@ -85,11 +85,16 @@ color: #fff !important;
     font-size: 1.1rem;
     color: #ffffff;
   }
-  
+
   .footer__stamps li:nth-child(3) > img {
     width: 70%;
   }
-  
+
   .footer__stamps img {
     max-width: 120px;
+  }
+
+  // esconder categorias menu
+  #c-5ebbfd11126b0d057212fe96, #c-5ebbfd12126b0d057212fe98, #c-5ebbfd14126b0d057212fe9a, #c-5ebbfd15126b0d057212fe9c, #c-5ebbfd10126b0d057212fe94, #c-5ebbfd0e126b0d057212fe92, #c-5ebbfd0c126b0d057212fe8e, #c-5ebbfd0a126b0d057212fe8c {
+    display: none;
   }
