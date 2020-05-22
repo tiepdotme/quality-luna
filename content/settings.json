@@ -1,6 +1,8 @@
 {
   "store_id": 1074,
   "domain": "www.qualityluna.com.br",
+  "name": "Quality luna",
+  "short_name": "QualityLuna",
   "currency_symbol": "R$",
   "primary_color": "#000000",
   "theme": {
@@ -8,8 +10,6 @@
   },
   "bg_color": "#fff",
   "logo": "/img/uploads/luna-marca.png",
-  "name": "Quality luna",
-  "short_name": "QualityLuna",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "/img/uploads/luna-marca.png",
