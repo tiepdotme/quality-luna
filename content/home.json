@@ -7,16 +7,16 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2020-06-01T14:36:34.505Z",
-          "end": "",
-          "img": "/img/uploads/quer_dicas_de_produtos_e_tratamentos-1.png",
-          "link": "https://blog.qualityluna.com.br/"
-        },
-        {
           "start": "2020-06-04T17:16:48.215Z",
           "end": "",
           "img": "/img/uploads/frete.png",
           "link": "https://www.qualityluna.com.br/luna-system"
+        },
+        {
+          "start": "2020-06-01T14:36:34.505Z",
+          "end": "",
+          "img": "/img/uploads/quer_dicas_de_produtos_e_tratamentos-1.png",
+          "link": "https://blog.qualityluna.com.br/"
         }
       ]
     },
