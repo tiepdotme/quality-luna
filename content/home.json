@@ -64,16 +64,16 @@
       "banners": [
         {
           "img": "/img/uploads/progressiva.webp",
-          "link": "https://qualitylun.netlify.app/search?term=progressiva"
+          "link": "https://www.qualityluna.com.br/alisamento"
         },
         {
           "img": "/img/uploads/reparador_de_pontas.webp",
           "link": "https://qualitylun.netlify.app/search?term=reparador",
-          "alt": "Reparador"
+          "alt": "https://www.qualityluna.com.br/search?term=reparador"
         },
         {
           "img": "/img/uploads/cronograma.webp",
-          "link": "https://qualitylun.netlify.app/search?term=cronograma",
+          "link": "https://www.qualityluna.com.br/search?term=cronograma",
           "alt": "Cronograma"
         }
       ]
