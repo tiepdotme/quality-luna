@@ -14,8 +14,16 @@
     "socials": false
   },
   "categories_list": {
-    "featured": [],
-    "random": 5,
+    "featured": [
+      "/produtos-para-cabelo-luna?Cabelos",
+      "/tratamento-luna-system?Tratamento",
+      "/shampoo?Shampoo",
+      "/manutencao?Manutenção",
+      "/alisamento?Progressivas",
+      "/kits-prontos-quality-luna?Kits Prontos",
+      "/cronograma?Cronograma Capilar"
+    ],
+    "random": 0,
     "full_width": true
   },
   "search_input": true
