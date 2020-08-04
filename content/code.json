@@ -1,5 +1,5 @@
 {
   "css": "",
   "html_head": "<script src=\"//code.jivosite.com/widget/Mkk1zgLr0E\" async></script>",
-  "html_body": ""
+  "html_body": "<div class=\"whatsapp-chat\">\n    <a class=\"hide-web\" href=\"https://api.whatsapp.com/send?phone=557734246689&text=Oi, gostaria de saber mais sobre\" target=\"_blank\">\n        <img title=\"Contato via Whatsapp\" src=\"https://cdn.ecvol.com/s/www.lojaeletricabrasil.com.br/uploads/whats.png\">\n    </a>\n\n    <a class=\"hide-mobile\" href=\"https://api.whatsapp.com/send?phone=557734246689&text=Oi, gostaria de saber mais sobre\" target=\"_blank\">\n        <img title=\"Contato via Whatsapp\" src=\"https://cdn.ecvol.com/s/www.lojaeletricabrasil.com.br/uploads/whats.png\">\n    </a>\n</div>\n   \n<style>\n    @media only screen and (min-width: 768px){\n        .whatsapp-chat .hide-mobile {\n            display: none\n        }\n    }\n\n    @media only screen and (max-width: 767px){\n        .whatsapp-chat .hide-web {\n            display: none;\n        }\n    }\n\n    .whatsapp-chat {\n        position: fixed;\n        z-index: 999;\n        bottom: 20px;\n        left: 20px;\n    }\n\n    .whatsapp-chat img {\n        height: 55px;\n        width: auto;\n    }\n</style>\n\n"
 }
