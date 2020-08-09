@@ -4,8 +4,14 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 10000,
       "slides": [
+        {
+          "start": "2020-08-09T22:17:04.053Z",
+          "end": "2020-08-24T02:59:00.000Z",
+          "img": "/img/uploads/ganhe-um-shampoo-de-brinde-em-compras-acima.png",
+          "link": "https://www.qualityluna.com.br/luna-system"
+        },
         {
           "start": "2020-06-04T17:16:48.215Z",
           "end": "",
