@@ -7,6 +7,12 @@
       "autoplay": 10000,
       "slides": [
         {
+          "start": "2020-09-01T19:32:46.765Z",
+          "end": "2020-09-15T02:59:00.000Z",
+          "img": "/img/uploads/ampola-site.png",
+          "link": "https://www.qualityluna.com.br/luna-system"
+        },
+        {
           "start": "2020-06-04T17:16:48.215Z",
           "end": "",
           "img": "/img/uploads/frete.png",
