@@ -6,12 +6,12 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Contatos",
-        "link": "/pages/contato"
-      },
-      {
         "title": "Dicas no Blog",
         "link": "https://www.qualityluna.com.br/blog"
+      },
+      {
+        "title": "Contatos",
+        "link": "/pages/contato"
       }
     ],
     "phone_wpp": true,
