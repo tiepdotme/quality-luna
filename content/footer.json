@@ -34,6 +34,10 @@
       "src": "/img/uploads/google.png",
       "link": "",
       "alt": "Google Safe"
+    },
+    {
+      "src": "/img/uploads/selo-clique.png",
+      "link": "https://cliquewebmarketing.com.br"
     }
   ],
   "payment_methods": {
