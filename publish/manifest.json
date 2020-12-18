@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.f90a333902ce9ce4af3ade780eb88ebb.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.571427d4f5d20b19da559559376b0266.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.9b09241af66811556b0119e4553e1882.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.5d959ca072d2574643aff2abada3208e.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.318043c0c61a5f78ca08dc7d8f6f48a5.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Quality luna",
+  "short_name": "QualityLuna",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Descubra o que os Produtos QualityLuna podem fazer por seus cabelos! #qualityluna",
+  "background_color": "#fff",
+  "theme_color": "#000000"
+}
